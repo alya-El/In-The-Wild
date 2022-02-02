@@ -1,30 +1,6 @@
 # CSCI 1170
 ## Final Project (Winter 2020)
 
-
-Student Name: Alya El-Serafi
-
-B00 Number: B00778413
-
-
-### Academic Integrity Pledge
-
-I, Alya El-Serafi, pledge to ensure that:
-
-[1]The work that I submit in this course is original work that is completed by me in full;
-
-[2]I will give credit to any online/offline content source or person from whom I get help;
-
-[3]I understand that any work that I submit in this course is work done for this course only.
-
-and,
-
-[4]I understand Dalhousie University's academic integrity policy applies to this course and I may incur penalties if I were to violate stated policies.
-
-Signed,
-Alya El-Serafi
-
-
 ### Website Topic
 
 Nature/wildlife tours and travels (the company's name is "In the wild")
