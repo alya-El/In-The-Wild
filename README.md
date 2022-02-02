@@ -3,7 +3,8 @@
 
 ### Website Topic
 
-Nature/wildlife tours and travels (the company's name is "In the wild")
+Nature/wildlife tours and travels (the company's name is "In the wild"). 
+URL: https://alya-el.github.io/In-The-Wild/
 
 ### Citations
 1. Background image for index page used from:
